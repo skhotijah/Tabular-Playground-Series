@@ -1,6 +1,6 @@
 # Tabular-Playground-Series
 
-### This repo contains my solution of :
+### This repo contains my solution of Tabular-Playground-Series Competitions :
 * https://www.kaggle.com/c/tabular-playground-series-jan-2021
 * https://www.kaggle.com/c/tabular-playground-series-feb-2021
 * https://www.kaggle.com/c/tabular-playground-series-mar-2021
